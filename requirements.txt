@@ -1,0 +1,6 @@
+gunicorn
+python-dotenv
+agentmail
+openai-agents
+flask
+markdown
